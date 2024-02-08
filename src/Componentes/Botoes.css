@@ -1,0 +1,14 @@
+.botaoMais{
+    background-color:rgb(90, 107, 255);
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 20px;
+    margin-top: 30px;
+    
+}

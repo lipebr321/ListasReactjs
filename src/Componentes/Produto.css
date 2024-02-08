@@ -1,0 +1,38 @@
+ .Produto {
+    border-radius: 8px;
+    background-color: aliceblue;
+    box-shadow: 0px 0px 8px #ccc;
+    color: #253b56;
+    margin: 12px 0px;
+    padding: 4px 16px 20px 16px;
+    height: 700px;
+    width: 350px;
+    margin-left: 10px;    
+    flex-wrap: wrap;
+  }
+  .Carro img{
+    height: 380px;
+    width: 350px;
+    align-items: center;
+    padding: 4px 16px 20px 16px;
+    margin: 10px 0px;
+  }
+
+  .Carro {
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+  }
+  .Descricao{
+    font-family: Avenir-Heavy;
+    font-size: 20;
+    margin: 12px 0px 0px 0px;
+    font-size: 14;
+    margin: 4px 0;
+
+  }
+
+  
+  
